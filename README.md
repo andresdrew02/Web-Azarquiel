@@ -15,4 +15,5 @@ npm run dev -- --open
 
 ## Proyecto desplegado
 El proyecto actualmente está desplegado en mi github pages: https://andresdrew02.github.io/
+
 Y en el repositorio: https://github.com/andresdrew02/andresdrew02.github.io/
