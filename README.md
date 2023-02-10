@@ -1,6 +1,14 @@
 # Propuesta de diseño -> Cursos de Ciberseguridad y Desarrollo de videojuegos para IES Azarquiel.
 Esta es mi propuesta de diseño para los cursos de especialización del centro.
 
+# Recursos usados
+### Todos los recursos usados son FreeBSD y se pueden usar en entornos empresariales
+Imagenes -> Unsplash
+Iconos -> Svgrepo
+Animaciones -> Animista
+Animaciones en scroll -> https://shiryel.github.io/saos/
+
+
 ## Descargar el repositorio
 Clonar este repositorio con git clone o crear tu propio fork.
 
