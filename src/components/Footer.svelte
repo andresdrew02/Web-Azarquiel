@@ -22,9 +22,9 @@
                 <li>PAPAS: azarquiel.papas@gmail.com</li>
             </ul>
         </div>
-        <div class="test col-4">
+        <div class="col-4">
             <h1 class="fs-4">Localización</h1>
-            <img src="/images/localizacion.jpg" class="localizacion" alt="Localización del Centro"> 
+            <iframe title="localizacion" class="localizacion" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12248.577723729308!2d-4.0229788!3d39.8710026!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc7f7d4815179b44b!2sIES%20Azarquiel!5e0!3m2!1ses!2ses!4v1676042971244!5m2!1ses!2ses" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
     </div>
     <div class="text-white d-flex justify-content-center w-100 fw-bold">
@@ -44,8 +44,7 @@
     }
     .localizacion{
         height: 80%;
-        width: 100%;
-        object-fit: cover;
+        min-width: 100%;
     }
     li{
         transform: translateX(-1.75rem);

@@ -1,7 +1,7 @@
 <div class="col-12 p-4 d-flex flex-column flex-md-row justify-content-center align-items-center gap-0 gap-md-4">
     <div class="d-flex flex-column flex-sm-row gap-2">
         <img src="/images/clm.png" alt=""/>
-        <img src="/images/eu_flag.jpg" alt=""/>
+        <img src="/images/euflag.jpg" alt=""/>
     </div>
     <div class="mt-4 d-flex flex-column">
         <img class="otherimg" src="/images/gobierno.png" alt=""/>

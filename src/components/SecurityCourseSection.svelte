@@ -1,3 +1,7 @@
+<script>
+  import Saos from "saos";
+</script>
+
 <div class="container-md d-flex flex-md-row flex-column">
   <div class="col-12 col-md-6">
     <h1 class="h5 text-decoration-underline">
