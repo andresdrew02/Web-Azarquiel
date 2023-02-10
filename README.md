@@ -23,6 +23,7 @@ npm run dev -- --open
 
 ## Proyecto desplegado
   •Github pages: https://andresdrew02.github.io/ (Parece ser que la vinculación de los archivos que tienen una "_" delante da problemas con github-pages)
+  
   •También está desplegado en Vercel (versión funcional) : https://vercel-azarquiel-repo.vercel.app/
 
 Y en los repositorios: 
